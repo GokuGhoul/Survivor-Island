@@ -4,3 +4,5 @@ genre games. The main purpose of the game is based upon surviving in a barren an
 by shooting or avoiding them. The player who survives the clock longest will win, initially you will be provided with the weapon to help you survive. You would be able to move around the whole island. The player surviving the longest will win.
 
 The game is based of unity game engine and intended for Windows PC systems
+
+![name-of-you-image](https://github.com/GokuGhoul/Survivor-Island/blob/main/game%20menu.png)
